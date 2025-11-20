@@ -1,0 +1,11 @@
+Goal: To create a repsoitory to complete Activity 15
+Needs: GitHub, GitHub Desktop, R-Studio, qmd file, pdf fil
+Steps:
+  1. Create a new repository at Github.com
+  2. Copy the repository into Github Desktop
+  3. Add the qmd and pdf file from Activity 14 into the main branch
+  4. Update the README and add it as a commit to the main branch
+  5. Create a side branch that contains the Plan Document
+  6. Upload the changes to github.com
+  7. Add issues to the repository
+  8. Add the url to the Activity 15 assignment
